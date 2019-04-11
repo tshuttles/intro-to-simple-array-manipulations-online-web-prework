@@ -8,19 +8,11 @@ def using_unshift(array, string)
   array.unshift("Brooklyn Heights")
 end
 
-def using_pop
-  
+def using_pop(great_hits_of_the_nineties)
+   great_hits_of_the_nineties.pop
 end
 
-def pop_with_args(array)
-  array = ["cat", "hi", "wow", "dog", "people"]
-  array.pop("dog", "people")
-end
-  
-def using_shift(array)
-  array = ["Lagos", "u", "i"]
-  array.shift(2)
-end
+
   
   
   
