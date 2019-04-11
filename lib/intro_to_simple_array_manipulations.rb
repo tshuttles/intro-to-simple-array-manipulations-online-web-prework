@@ -14,4 +14,4 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  pop(2)
+  pop(2) = "i"
