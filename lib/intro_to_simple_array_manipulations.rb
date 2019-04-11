@@ -14,4 +14,8 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  pop(2) = "i"
+  array = ["g", "h", "i", "k"]
+  pop(2) = "i", "k"
+end
+  
+  
