@@ -10,4 +10,4 @@ end
 
 def using_pop(array)
   array = ["wow"]
-  array.pop
+  "hi" = array.pop
