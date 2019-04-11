@@ -9,8 +9,8 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  array = []
-  array.pop("people")
+  array = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
+  array.pop(")
 end
 
 def pop_with_args(array)
