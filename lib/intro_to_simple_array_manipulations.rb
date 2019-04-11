@@ -15,12 +15,12 @@ end
 
 def pop_with_args(array)
   array = ["g", "h", "i", "k"]
-  pop(2)("i", "k")
+  pop(2)
 end
   
 def using_shift(array)
   array = ["y", "o", "u", "i"]
-  array.shift(2)("y", "o")
+  array.shift(2)
 end
   
   
