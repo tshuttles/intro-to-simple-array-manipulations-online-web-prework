@@ -9,7 +9,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  array = ["cat", "hi", "wow", "dog", "people"]
+  array = []
   array.pop("people")
 end
 
