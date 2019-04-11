@@ -20,7 +20,7 @@ end
   
 def using_shift(array)
   array = ["y", "u", "i"]
-  array
+  array.shift = 
   
   
   
