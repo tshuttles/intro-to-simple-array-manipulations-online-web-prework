@@ -10,18 +10,18 @@ end
 
 def using_pop(array)
   array = ["wow", "hi"]
-  "hi" = array.pop
+  array.pop("hi")
 end
 
 def pop_with_args(array)
   array = ["g", "h", "i", "k"]
-  pop(2) = "i", "k"
+  pop(2)("i", "k")
 end
   
 def using_shift(array)
   array = ["y", "u", "i"]
-  array.shift = 
-  
+  array.shift("y")
+end
   
   
   
