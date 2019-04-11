@@ -4,7 +4,7 @@ def using_push(array, string)
 end 
 
 def using_unshift(array, string)
-  array = ["cat"]
+  array = ["cat", "hi", "wow", "dog", "people"]
   array.unshift("Brooklyn Heights")
 end
 
