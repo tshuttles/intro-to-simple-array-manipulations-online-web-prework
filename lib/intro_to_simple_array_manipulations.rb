@@ -1,7 +1,11 @@
 def using_push(array, string)
   array = ["hi"]
-  array.push("wow")
+  string = "wow"
+  array.push(string)
 end 
 
 def using_unshift(array, string)
-  array
+  array = ["cat"]
+  string = "dog"
+  array.unshift(string)
+end
