@@ -18,4 +18,12 @@ def pop_with_args(array)
   pop(2) = "i", "k"
 end
   
-def using_shift
+def using_shift(array)
+  array = ["y", "u", "i"]
+  
+  
+  
+  
+  
+  
+  
